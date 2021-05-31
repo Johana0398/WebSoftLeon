@@ -27,7 +27,7 @@
                 <li class="nav-item"><a href="ventas.php" class="nav link options"> Servicios </a></li>
             </ul>
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a href="#" class="nav link"> Contáctanos </a ></li> 
+                <li class="nav-item"><a href="contacto.php" class="nav link"> Contáctanos </a ></li> 
             </ul>
             </div>
         </div>
