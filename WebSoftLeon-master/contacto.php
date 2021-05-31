@@ -63,41 +63,34 @@
 <div>
 
 <div class="row ">
- <div class="my-4 card col-xl-6 m-auto col-lg-6 col-md-6 m-auto col-sm-12 m-auto col-12 m-auto" style="width: 50rem;">
+ <div class="my-1 col-lg-6 m-auto col-sm-9 m-auto" >
   <div class="card-body contacto">
     <h2 class="card-title">Contacto</h2>
     <hr></hr>
     <h6 class="text-dark">Horarios de atención</h6>
-  
         <li class="text-contacto">Lunes – Viernes <br>
            9:00 am- 20:00 pm Hora Centro 
         </li>
-        
         <br>
         <li class="text-contacto">Sábado<br> 
         9:00 am- 14:00 pm Hora Centro 
         </li>
-
     <hr></hr>
     <li>
-                 <a href="#" class="icono"><i class="fab fa-facebook-square"></i> Soft León</a>
-                 </li>
-                 <li>
-               <a href="#" class="icono2"><i class="fab fa-whatsapp" ></i> 477 374 7505</a>
-               </li>
-                <li> <a href="#" class="icono3"><i class="fas fa-envelope "></i> Softleon.2123@gmail.com  </a>
-                  
-                </li>
+       <a href="#" class="icono"><i class="fab fa-facebook-square"></i> Soft León</a>
+    </li>
+    <li>
+       <a href="#" class="icono2"><i class="fab fa-whatsapp" ></i> 477 374 7505</a>
+    </li>
+       <li> <a href="#" class="icono3"><i class="fas fa-envelope "></i> Softleon.2123@gmail.com  </a>
+     </li>
     <a href="#" class="card-link"></a>
     <a href="#" class="card-link"></a>
    </div>
-
-
-   
   </div>
 
   
-  <div class="contacto-mapa col-xl-6 m-auto col-lg-6 m-auto col-md-6  m-auto col-sm-12 m-auto col-12 m-auto">
+  <div class="contacto-mapa col-lg-6 col-sm-9 m-auto">
      <div>
      <h4 class=" my-1 ">Ubicacion: León, Guanajuato, México. </h4>
    </div>
