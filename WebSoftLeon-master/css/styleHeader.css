@@ -1,0 +1,19 @@
+
+@font-face{
+    font-family: TitilliumWeb-Regular;
+    src:url(./tipografias/TitilliumWeb-Regular.ttf);
+   }
+
+a.nav.link{
+    color:rgb(239, 243, 223);
+    font-size: 25px;
+    font-family: TitilliumWeb-Regular;
+    text-decoration: none;
+    padding-top: 1vw;
+    padding-right: 4vw;
+}
+
+a.nav.link:hover{
+    color:rgba(62, 160, 23, 0.849);
+    transform: scale(0.9);
+}

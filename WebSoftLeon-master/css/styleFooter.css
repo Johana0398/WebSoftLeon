@@ -1,0 +1,53 @@
+@font-face{
+    font-family: TitilliumWeb-Regular;
+    src:url(./tipografias/TitilliumWeb-Regular.ttf);
+   }
+
+#footer{
+    color: whitesmoke;
+    padding: 5px;
+    background-color: rgba(5, 5, 5, 1);
+    font-family: TitilliumWeb-Regular;
+}
+#imgLogo{
+    width: 55%;
+    }
+#contenido{
+    padding-left: 50px;
+} 
+ul,li {
+    list-style-type: none;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+}
+.iconito{
+    font-size: xx-large;
+    color: rgb(180, 180, 180);
+}
+.iconito2{
+    font-size: xx-large;
+    color: rgb(180, 180, 180);
+} 
+.iconito:hover{
+    color: rgb(59, 89, 152);
+    transition: .3s;
+}
+.iconito2:hover{
+    color: rgb(0, 187, 45);
+    transition: .3s;
+}
+#main-politicas{
+    font-size: larger;
+}
+#footer-content{
+    padding-top: 10px;
+}
+a:link{
+    text-decoration: none;
+}
+.poli{
+    color: whitesmoke;
+}
+.poli:hover{
+    color:rgba(62, 160, 23, 0.849);
+} 
