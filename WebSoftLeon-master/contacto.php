@@ -24,7 +24,7 @@
     <div class="row">
       <div class="col-xl-9 m-auto">              
                   <div class="card-body">
-                            <!-- Form contact -->
+                    <!-- Form contact -->
                             <form class="form-cotizacion bg-dark">
                                 <h2 class="titulo">Cotización</h2>  
                                 <div class="md-form mb-3">
