@@ -13,7 +13,7 @@
     <footer id="footer" class="bg-dark">
         <div id="footer-content" class="container-fluid">
             <div class="row">
-                <div id="contenido" class="col-12 col-md-4 col-xl-4">
+                <div id="contenido" class=" col-12 col-md-4 col-xl-4">
                     <img id="imgLogo" class="img-fluid" src="img/Logo1.png" alt="LOGO">
                 </div>
                 <div id="politicas" class="col-12 col-md-4 col-xl-4">
