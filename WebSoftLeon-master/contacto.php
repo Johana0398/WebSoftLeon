@@ -16,10 +16,12 @@
   
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
   <script src="https://kit.fontawesome.com/0c7674100c.js" crossorigin="anonymous"></script>
-  <link  href="css/styleContacto2.css"  type="text/css" rel="stylesheet">
+  <link  href="css/style.css"  type="text/css" rel="stylesheet">
   
 </head>
-<body>  
+<body>
+<div class="container-fluid">
+  <div class="row">
   <div class="col-12 bg-dark my-1">
     <div class="row">
       <div class="col-xl-9 m-auto">              
@@ -55,47 +57,41 @@
       <!-- Grid column -->
     </div>
   </div>
-
-  <div>
-    <div class="row">
-      <div class="my-1 col-lg-6 m-auto col-sm-9 m-auto" >
-        <div class="card-body contacto">
+  </div>
+  <div class="row">
+    <div class="col-lg-6 m-auto col-sm-9 m-auto" >
+      <div class="card-body contacto">
         <h2 class="card-title">Contacto</h2>
         <hr></hr>
-          <h6 class="text-dark">Horarios de atención</h6>
-              <li class="text-contacto">Lunes – Viernes <br>
-                9:00 am- 20:00 pm Hora Centro 
-              </li>
-              <br>
-              <li class="text-contacto">Sábado<br> 
-              9:00 am- 14:00 pm Hora Centro 
-              </li>
+        <h6 class="text-dark">Horarios de atención</h6>
+        <li class="text-contacto">Lunes – Viernes <br>
+          9:00 am- 20:00 pm Hora Centro 
+        </li>
+        <br>
+        <li class="text-contacto">Sábado<br> 
+          9:00 am- 14:00 pm Hora Centro 
+        </li>
         <hr></hr>
-          <li>
-            <a href="#" class="icono"><i class="fab fa-facebook-square"></i> Soft León</a>
-          </li>
-          <li>
-            <a href="#" class="icono2"><i class="fab fa-whatsapp" ></i> 477 374 7505</a>
-          </li>
-          <li> 
-            <a href="#" class="icono3"><i class="fas fa-envelope "></i> Softleon.2123@gmail.com  </a>
-          </li>
+        <li>
+          <a href="#" class="icono"><i class="fab fa-facebook-square"></i> Soft León</a>
+        </li>
+        <li>
+          <a href="#" class="icono2"><i class="fab fa-whatsapp" ></i> 477 374 7505</a>
+        </li>
+        <li> 
+          <a href="#" class="icono3"><i class="fas fa-envelope "></i> Softleon.2123@gmail.com  </a>
+        </li>
       </div>
     </div>
-
-  <div class="contacto-mapa col-lg-6 col-sm-9 m-auto">
-    <div>
-      <h4 class=" my-1 ">Ubicacion: León, Guanajuato, México. </h4>
-        </div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.865560022505!2d-106.42374424876603!3d23.211569584783287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f53996d1a7159%3A0x35f943fd2af46706!2sMonumento%20al%20Pescador!5e0!3m2!1ses!2smx!4v1621878481144!5m2!1ses!2smx" 
-            width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-        </div>  
-     </div>
-    </div>
+    <div class="contacto-mapa col-lg-6 col-sm-9 m-auto">
+      <div>
+        <h4 class=" my-1 ">Ubicacion: León, Guanajuato, México. </h4>
+      </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.865560022505!2d-106.42374424876603!3d23.211569584783287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f53996d1a7159%3A0x35f943fd2af46706!2sMonumento%20al%20Pescador!5e0!3m2!1ses!2smx!4v1621878481144!5m2!1ses!2smx" 
+          width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>  
+  </div>
 </div>
-
-
-
 </body>
 </html>
 <?php
