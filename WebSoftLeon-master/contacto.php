@@ -23,46 +23,43 @@
   <div class="col-12 bg-dark my-1">
     <div class="row">
       <div class="col-xl-9 m-auto">              
-                  <div class="card-body">
-                    <!-- Form contact -->
-                            <form class="form-cotizacion bg-dark">
-                                <h2 class="titulo">Cotización</h2>  
-                                <div class="md-form mb-3">
-                                    <i class="fa fa-user prefix blue-text"></i>
-                                    <input type="text" id="#" class="" placeholder="Nombre">
-                                   
-                                </div>
-                                <div class="md-form">
-                                    <i class="fa fa-envelope prefix blue-text"></i>
-                                    <input type="text" id="#" class="" placeholder="Correo">
-                                   
-                                </div>
-                                <div class="md-form">
-                                    <i class="fa fa-tag prefix blue-text"></i>
-                                    <input type="text" id="#" class="" placeholder="Asunto">
-                                    <label for="form342"></label>
-                                </div>
-                                <div class="md-form">
-                                    <i class="fa fa-pencil prefix blue-text"></i>
-                                    <textarea type="text" id="#" class="md-textarea" style="height: 100px" placeholder="Describe el asunto.."></textarea>
-                                    <label for="form82"></label>
-                                </div>
-                                <div class="text-center">
-                                    <button class="btn btn-info btn-lg">Enviar</button>
-                                </div>
-                            </form>
-                            <!-- Form contact -->
-                        </div>
-                    </div>
-               
-                <!-- Grid column -->
+        <div class="card-body">
+          <!-- Form contact -->
+          <form class="form-cotizacion bg-dark">
+            <h2 class="titulo">Cotización</h2>  
+            <div class="md-form mb-3">
+              <i class="fa fa-user prefix blue-text"></i>
+              <input type="text" id="#" class="" placeholder="Nombre">                           
+            </div>
+            <div class="md-form">
+              <i class="fa fa-envelope prefix blue-text"></i>
+              <input type="text" id="#" class="" placeholder="Correo">                       
+            </div>
+            <div class="md-form">
+              <i class="fa fa-tag prefix blue-text"></i>
+              <input type="text" id="#" class="" placeholder="Asunto">
+              <label for="form342"></label>
+            </div>
+            <div class="md-form">
+              <i class="fa fa-pencil prefix blue-text"></i>
+              <textarea type="text" id="#" class="md-textarea" style="height: 100px" placeholder="Describe el asunto.."></textarea>
+              <label for="form82"></label>
+            </div>
+            <div class="text-center">
+              <button class="btn btn-info btn-lg">Enviar</button>
+            </div>
+          </form>
+          <!-- Form contact -->
+        </div>
+      </div>
+      <!-- Grid column -->
     </div>
   </div>
-<div>
 
-<div class="row ">
-  <div class="my-1 col-lg-6 m-auto col-sm-9 m-auto" >
-      <div class="card-body contacto">
+  <div>
+    <div class="row">
+      <div class="my-1 col-lg-6 m-auto col-sm-9 m-auto" >
+        <div class="card-body contacto">
         <h2 class="card-title">Contacto</h2>
         <hr></hr>
           <h6 class="text-dark">Horarios de atención</h6>
