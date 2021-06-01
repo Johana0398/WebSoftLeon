@@ -19,13 +19,11 @@
   <link  href="css/styleContacto2.css"  type="text/css" rel="stylesheet">
   
 </head>
-<body >  
-
-<div class="col-12 bg-dark my-1">
-  <div class="row">
-    <div class="col-xl-9 m-auto">
-                    
-                        <div class="card-body">
+<body>  
+  <div class="col-12 bg-dark my-1">
+    <div class="row">
+      <div class="col-xl-9 m-auto">              
+                  <div class="card-body">
                             <!-- Form contact -->
                             <form class="form-cotizacion bg-dark">
                                 <h2 class="titulo">Cotización</h2>  
